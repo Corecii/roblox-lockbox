@@ -1,0 +1,6 @@
+{
+  "name": "roblox-lockbox",
+  "tree": {
+    "$path": "src/lockbox-wrapper"
+  }
+}

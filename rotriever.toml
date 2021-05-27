@@ -1,0 +1,7 @@
+[package]
+name = "lockbox"
+version = "0.1.0"
+author = "Corecii"
+content_root = "src/lockbox-wrapper"
+
+[dependencies]
