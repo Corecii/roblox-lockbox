@@ -1,13 +1,5 @@
 local requireOnIndex = require(script.requireOnIndex)
 
--- lockbox-secure and lockbox-insecure are added automatically by rojo.
-
--- The structure looks like:
--- * lockbox-secure
---   * lockbox
--- * lockbox-insecure
---   * lockbox
-
 -- The "standard library" will overwrite direct requires for "lockbox" with our
 -- small implementation here. This is used internally by lockbox to check if the
 -- module is in secure mode or not. Other requires for e.g. "lockbox.util.bit"
