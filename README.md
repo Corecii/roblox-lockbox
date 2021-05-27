@@ -23,7 +23,7 @@ To access modules from `lua-lockbox`:
 
 ## Adding to Your Game
 
-Option 1: download the latest release as an `rbxm` from the releases page
+Option 1: download the latest release as an `rbxm` from [the releases page](https://github.com/Corecii/roblox-lockbox/releases)
 
 Option 2: use a rotriever-compatible package manager to add `roblox-lockbox` as a dependency
 
@@ -45,4 +45,4 @@ Then you're up to date!
 
 ## Releasing a New Version
 
-After updating, run `rojo build -o roblox-lockbox.rbxm` to build the release model.
+After updating, run `rojo build -o lockbox.rbxm` to build the release model.
